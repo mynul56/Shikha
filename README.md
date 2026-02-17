@@ -42,7 +42,17 @@
    flutter run
    ```
 
+<<<<<<< HEAD
 ## Features Implemented
 - **Backend**: Auth (Signup, Login), Course CRUD, RBAC Middleware.
 - **Frontend**: Clean Architecture, BLoC State Management, Login Screen, Home Dashboard with Course Listing.
+=======
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+
+>>>>>>> 2bc6556 (first commit)
 # Shikha
